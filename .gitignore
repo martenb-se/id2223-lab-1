@@ -1,0 +1,17 @@
+.env
+/resources
+
+# Temporay files
+/task_1/nice_log.py
+/task_2/nice_log.py
+
+# Task 1
+/task_1/iris_model
+/task_1/latest_flower
+
+# Testing
+/run_modal_test.sh
+/testing
+
+# Logs
+*.log

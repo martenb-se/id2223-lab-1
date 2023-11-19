@@ -1,0 +1,12 @@
+[submodule "task_1/hugging_face_spaces/iris"]
+	path = task_1/hugging_face_spaces/iris
+	url = git@hf.co:spaces/martenb/iris
+[submodule "task_1/hugging_face_spaces/iris-monitor"]
+	path = task_1/hugging_face_spaces/iris-monitor
+	url = git@hf.co:spaces/martenb/iris-monitor
+[submodule "task_2/hugging_face_spaces/wine"]
+	path = task_2/hugging_face_spaces/wine
+	url = git@hf.co:spaces/martenb/wine
+[submodule "task_2/hugging_face_spaces/wine-monitor"]
+	path = task_2/hugging_face_spaces/wine-monitor
+	url = git@hf.co:spaces/martenb/wine-monitor
